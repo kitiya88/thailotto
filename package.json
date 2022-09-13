@@ -1,0 +1,18 @@
+{
+  "name": "maruay88",
+  "theme": "syntax",
+  "version": "1.1.01",
+  "description": "THAILOTTO เว็บแทงหวยออนไลน์ อัพเดท2022 ทางเข้าสำรอง",
+  "keywords": [
+    "THAILOTTO",
+    "เว็บตรงthailotto",
+    "สมัครThailotto",
+    "Thailotto ทางเข้าสำรอง",
+    "Thailotto6688"
+  ],
+  "repository": "https://github.com/maruay88/thailotto",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
